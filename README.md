@@ -25,7 +25,7 @@ For this project I used:
 * 5x Cherry MX Switches
 * 5x DSA Keycaps
 * 6x 1N4148 DO-35 Diodes
-* 6x WS2812B LEDs
+* 6x SK6812 MINI-E LEDs
 * 1x 0.91" 128x32 OLED Display
 * 1x EC11 Rotary Encoder
 * 1x XIAO RP2040
