@@ -3,7 +3,7 @@ Quantity,Part,Description,Reference Designator(s)
 5,DSA Keycap,Keycap for MX-style switches,
 6,1N4148 DO-35,Signal diode (switch matrix),"D2,D3,D4,D5,D6,D12"
 6,SK6812MINI-E,Addressable RGB LED,
-1,SSD1306 OLED Display,0.91" 128x32 I2C OLED display,U2
+1,SSD1306 OLED Display,0.91in 128x32 I2C OLED display,U2
 1,EC11 Rotary Encoder,Rotary encoder with push switch,SW6
 1,Seeed XIAO RP2040,Main microcontroller,U1
 2,3D Printed Case Part,Base and lid,
